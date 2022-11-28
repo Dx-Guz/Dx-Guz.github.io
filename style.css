@@ -92,14 +92,14 @@ header{
     height: 520px;
     margin-top: 0px;
     font-family: "Poppins", sans-serif;
-    background-image: url("image/tron1.jpg");
+    background-image: url("tron1.jpg");
     background-size: cover;
     background-position-y: -100px ;
     overflow-y: scroll;
 }
 
 .jumbotron:hover{
-    background-image: url("image/tron2.jpg");
+    background-image: url("tron2.jpg");
 }
 .text-brand{
     margin-left: 50px;
